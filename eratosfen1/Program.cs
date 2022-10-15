@@ -34,6 +34,6 @@ while (true)
         }
     }
     stopwatch.Stop();
-    Console.WriteLine($"--------Прошло милисекунд: {stopwatch.ElapsedMilliseconds}");
+    Console.WriteLine($"Прошло милисекунд: {stopwatch.ElapsedMilliseconds}");
     Console.WriteLine();
 }
